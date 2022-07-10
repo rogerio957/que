@@ -1,0 +1,69 @@
+
+#EXTM3U
+#EXTINF:-1,Web Tv Cine Live
+https://srv2.zcast.com.br/elzemar/elzemar/chunklist_w798596953.m3u8
+#EXTINF:-1,Tv Aracati HD Live
+https://livefocamundo.com:8081/tvaracati/tracks-v1a1/mono.m3u8
+#EXTINF:-1,CHANNEL 1 Live
+https://stmv1.srvif.com/channel1/channel1/chunklist_w803585326.m3u8
+#EXTINF:-1,Tv Nova Play Live
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1488938933.m3u8
+#EXTINF:-1,HITS TV Live	
+https://strv1.estbrasil.com/hitstv/hitstv/chunklist_w329601784.m3u8
+#EXTINF:-1,TV CARIOCA.NET	
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w1778615550.m3u8
+#EXTINF:-1,Tv J.SID Live
+https://livefocamundo.com:8081/tvjsid/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Retro Cartoon Live
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1345083128.m3u8
+#EXTINF:-1,TV Rabelo Live
+https://cdn.jmvstream.com/w/AVJ-10593/playlist/chunklist.m3u8
+#EXTINF:-1,Classique Western Tv Live
+https://stmv1.srvif.com/classiquew/classiquew/chunklist_w2012863529.m3u8
+#EXTINF:-1,Bons Tempos Live	
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w740432206.m3u8
+#EXTINF:-1,Classique TV 2 Live
+https://stmv1.srvif.com/classiquetv1/classiquetv1/chunklist_w982228695.m3u8
+#EXTINF:-1,Tela Viva Live
+https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w1067039858.m3u8
+#EXTINF:-1,QTAL CHANNEL Live
+https://video01.logicahost.com.br/tvkidmais/tvkidmais/chunklist_w2113239866.m3u8
+#EXTINF:-1,Rede Serra Live
+https://serv3.videovox.pw/ivonildoferreiradasilva1063/ivonildoferreiradasilva1063/chunklist_w1002276204.m3u8
+#EXTINF:-1,Run Time Comédia Live
+https://stream.ads.ottera.tv/cl/c1939b50-8c50-4bcb-bce8-1488384d3abd/1280x720_3071200_0_false.m3u8
+#EXTINF:-1,TV Series	
+https://stmv1.srvif.com/tvserie/tvserie/chunklist_w627535334.m3u8
+#EXTINF:-1,CinePIX TV Live
+https://srv2.zcast.com.br/elzemar/elzemar/chunklist_w1151113499.m3u8
+#EXTINF:-1,Tv Jornada Nas Estrelas (Star Trek
+https://stmv1.srvif.com/tvserie3/tvserie3/chunklist_w192135302.m3u8
+#EXTINF:-1,SIC Live	
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
+
+https://raw.githubusercontent.com/rogerio957/ads/37dacf5724988d1c1a7575e4556d4aac7f86b564/sic.txt
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
